@@ -1,0 +1,57 @@
+#to{
+    min-width: 100px;
+    /* min-height: 400px; */
+    background-color: rgba(127, 255, 212, 0.595);
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    padding: 20px;
+    /* overflow-x: hidden; */
+    position: sticky;
+    
+    
+    /* justify-content: space-around; */
+    
+}
+#to>div{
+    min-width: 24.6vw;
+    margin-top: 20px;
+    width: 100%;
+    /* min-height: 200px; */
+
+    border: 1px solid rgba(255, 0, 0, 0.277);
+
+    
+    background-color: rgba(0, 0, 0, 0.762);
+    color: azure;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#button{
+    margin: 10px;
+    padding: 10px;
+    
+}
+#button:hover{
+    background-color: rgb(40, 226, 226);
+    
+}
+.c1{
+    
+    
+    border: 1px solid red;
+    
+    
+}
+#sel{
+    position: fixed;
+    
+    background-color: red;
+}
+h1,h2{
+    text-align: center;
+    border-bottom: 2px solid yellow;
+    height: 40px;
+}
